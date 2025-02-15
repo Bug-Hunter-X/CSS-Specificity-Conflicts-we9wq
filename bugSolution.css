@@ -1,0 +1,1 @@
+To solve the specificity issue, make sure selectors are precise enough to target only the intended elements. Avoid relying on overly generic selectors, and ensure that styles defined later with higher specificity do not unintentionally override important styles.
